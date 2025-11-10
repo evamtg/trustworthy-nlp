@@ -7,12 +7,12 @@ Eva Gavaller
 
 ## Directory Structure
 .
-|--  nlp_project_finding_bias.ipynb /n
-|--  nlp_project_replacing_preds.ipynb /n
-|--  nlp_project_testing_bias.ipynb /n
-|--  nlp_project_counterfactual_dataset.ipynb /n
-|--  nlp_project_Hooked_SAE_Transformer_Demo.ipynb /n
-|--  nlp_project_unlearning.ipynb
+- |--  nlp_project_finding_bias.ipynb 
+- |--  nlp_project_replacing_preds.ipynb 
+- |--  nlp_project_testing_bias.ipynb 
+- |--  nlp_project_counterfactual_dataset.ipynb
+- |--  nlp_project_Hooked_SAE_Transformer_Demo.ipynb
+- |--  nlp_project_unlearning.ipynb
 
 
 
