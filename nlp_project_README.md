@@ -6,7 +6,6 @@ Eva Gavaller
 
 
 ## Directory Structure
-.
 - |--  nlp_project_finding_bias.ipynb 
 - |--  nlp_project_replacing_preds.ipynb 
 - |--  nlp_project_testing_bias.ipynb 
